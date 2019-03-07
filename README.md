@@ -1,4 +1,4 @@
-# gxlu
+# check-gmail-valid
 
 <h2>Python script to check if a gmail account exists</h2>
 
